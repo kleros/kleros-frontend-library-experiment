@@ -1,0 +1,1 @@
+{"mappings":";;;;;SAAgB,yCAAG,CAAC,CAAC,EAAE,CAAC,EAAC,CAAC;IACzB,MAAM,CAAC,CAAC,GAAC,CAAC;AACX,CAAC","sources":["repos/kleros-frontend-library/src/index.js"],"sourcesContent":["export function add(a, b){\n\treturn a+b;\n}\n"],"names":[],"version":3,"file":"main.js.map"}

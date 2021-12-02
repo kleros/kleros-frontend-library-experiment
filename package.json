@@ -1,0 +1,13 @@
+{
+  "name": "kleros-frontend-library",
+  "version": "0.0.1",
+  "source": "src/index.js",
+  "main": "dist/main.js",
+  "devDependencies": {
+    "parcel": "^2.0.1"
+  },
+  "scripts": {
+"watch": "parcel watch",
+"build": "parcel build"
+}
+}
