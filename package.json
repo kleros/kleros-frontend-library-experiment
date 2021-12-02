@@ -7,7 +7,16 @@
     "parcel": "^2.0.1"
   },
   "scripts": {
-"watch": "parcel watch",
-"build": "parcel build"
-}
+    "start" :"parcel",
+    "watch": "parcel watch",
+    "build": "parcel build"
+  },
+  "dependencies": {
+    "@kleros/archon": "^2.2.0",
+    "clsx": "^1.1.1",
+    "prop-types": "^15.7.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "styled-components": "^5.3.3"
+  }
 }
